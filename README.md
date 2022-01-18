@@ -21,16 +21,16 @@
 
 
 # 2022 Contributor
-- [남택관]("https://github.com/")
-- [박정현]("https://github.com/pwjdgus")
-- [김대로]("https://github.com/dhfgoeofh")
-- [강민주]("https://github.com/blueberrygrape")
-- [송시무]("https://github.com/SIMOOLOOK")
-- [서지헌]("https://github.com/")
-- [정유지]("https://github.com/")
-- [조영훈]("https://github.com/JOyagdol")
-- [이승민]("https://github.com/leeseungmin-kr")
-- [박민서]("https://github.com/")
+[남택관]("https://github.com/")
+[박정현]("https://github.com/pwjdgus")
+[김대로]("https://github.com/dhfgoeofh")
+[강민주]("https://github.com/blueberrygrape")
+[송시무]("https://github.com/SIMOOLOOK")
+[서지헌]("https://github.com/")
+[정유지]("https://github.com/")
+[조영훈]("https://github.com/JOyagdol")
+[이승민]("https://github.com/leeseungmin-kr")
+[박민서]("https://github.com/")
 
 
 
