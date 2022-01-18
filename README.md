@@ -13,7 +13,7 @@
 ----
 
 ## 깃허브 간단 사용법(작성 중)
-[PPT다운로드]("")
+[PPT다운로드]()
 
 
 # 장소
@@ -21,23 +21,24 @@
 
 
 # 2022 Contributor
-[남택관]("https://github.com/")
-[박정현]("https://github.com/pwjdgus")
-[김대로]("https://github.com/dhfgoeofh")
-[강민주]("https://github.com/blueberrygrape")
-[송시무]("https://github.com/SIMOOLOOK")
-[서지헌]("https://github.com/")
-[정유지]("https://github.com/")
-[조영훈]("https://github.com/JOyagdol")
-[이승민]("https://github.com/leeseungmin-kr")
-[박민서]("https://github.com/")
+  
+- [남택관](https://github.com/)
+- [박정현](https://github.com/pwjdgus)
+- [김대로](https://github.com/dhfgoeofh)
+- [강민주](https://github.com/blueberrygrape)
+- [송시무](https://github.com/SIMOOLOOK)
+- [서지헌](https://github.com/)
+- [정유지](https://github.com/)
+- [조영훈](https://github.com/JOyagdol)
+- [이승민](https://github.com/leeseungmin-kr)
+- [박민서](https://github.com/)
 
 
 
 
 # 학과 홈페이지 
 
-[학과 홈페이지 바로가기]("http://computer.donga.ac.kr/sites/computer/index.do")
+[학과 홈페이지 바로가기](http://computer.donga.ac.kr/sites/computer/index.do)
 
 
 
