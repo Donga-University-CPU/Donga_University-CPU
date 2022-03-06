@@ -21,4 +21,6 @@
 [학과 홈페이지 바로가기](http://computer.donga.ac.kr/sites/computer/index.do)
 
 
+# 스터디 바로가기
 
+[파이썬 스터디](https://github.com/JOyagdol/Python_Study-CPU)
