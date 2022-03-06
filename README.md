@@ -24,6 +24,13 @@
 # 스터디 바로가기
 
 [파이썬 스터디](https://github.com/JOyagdol/Python_Study-CPU)
+  
+  
 [코드업 100문제 풀기](https://github.com/CodeUp100Challenge/CodeUp100_Challenge)
+  
+  
 [데이터 구조](https://github.com/DataStructureStudy/Data_Structure_Study)
+  
+  
 [데이터 분석](https://github.com/pwjdgus/Data-analysis)
+  
